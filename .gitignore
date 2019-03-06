@@ -1,0 +1,6 @@
+.idea
+/modules/*/.git*
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
